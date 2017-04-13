@@ -1,0 +1,4 @@
+*.sdf
+Win32/*
+ArcadeFlight/Debug/*
+
